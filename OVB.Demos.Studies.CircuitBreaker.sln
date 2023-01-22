@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OVB.Demos.Studies.CircuitBreaker.WebApi", "OVB.Demos.Studies.CircuitBreaker.WebApi\OVB.Demos.Studies.CircuitBreaker.WebApi.csproj", "{ECEC9E86-055C-4801-8545-83FD264A75C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECEC9E86-055C-4801-8545-83FD264A75C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEC9E86-055C-4801-8545-83FD264A75C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEC9E86-055C-4801-8545-83FD264A75C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEC9E86-055C-4801-8545-83FD264A75C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1989DC00-FD89-4315-93BE-6E0D707BC402}
+	EndGlobalSection
+EndGlobal
